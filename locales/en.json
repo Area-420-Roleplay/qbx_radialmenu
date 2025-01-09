@@ -37,7 +37,7 @@
       "get_out_trunk_button": "[E] Get Out Of The Trunk",
       "close_trunk_button": "[G] Close The Trunk",
       "open_trunk_button": "[G] Open The Trunk",
-      "getintrunk_command_desc": "Get In Trunk",
+      "getintrunk_command_desc": "",
       "putintrunk_command_desc": "Put Player In Trunk",
       "gang_radial": "Gang",
       "job_radial": "Job"
